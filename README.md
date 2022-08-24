@@ -4,7 +4,9 @@ CoSMR tool can be used to generate Graphical charts for onsite Continuous Slope 
 
 The repository was created by Raj Kiran Dhiman, Department of Geology, Panjab University, Sector 14, Chandigarh, India. 
 
-CoSMR.exe tool is available in this repositry and can be used by following the steps below
+CoSMR.py script and CoSMR.exe tool is available in this repositry and can be used by following the steps below
+
+** CoSMR.exe file can be downloaded from this link: https://drive.google.com/file/d/1lKgExMrQLHxL7XcQXThKPykSjMrDd3hx/view?usp=sharing **
 
 ## Steps to Follow
 
