@@ -8,6 +8,8 @@ CoSMR.py script and CoSMR.exe tool is available in this repository and can be us
 
 ** CoSMR.exe file can be downloaded from this link: https://drive.google.com/file/d/1lKgExMrQLHxL7XcQXThKPykSjMrDd3hx/view?usp=sharing **
 
+Email me at dhimanrajkiran@gmail.com if you can not download the CoSMR.exe file
+
 ## Steps to Follow
 
 Step 1. Download the file with the name CoSMR.exe and save it in your computer.
