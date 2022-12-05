@@ -6,7 +6,7 @@ The repository was created by Raj Kiran Dhiman, Department of Geology, Panjab Un
 
 CoSMR.py script and CoSMR.exe tool is available in this repository and can be used by following the steps below
 
-** CoSMR.exe file can be downloaded from this link: https://drive.google.com/drive/folders/1TwREojY9vkIu4bho7ifv2oiJLy8i0Sxx?usp=sharing **
+**CoSMR.exe file can be downloaded from this link: https://drive.google.com/drive/folders/1TwREojY9vkIu4bho7ifv2oiJLy8i0Sxx?usp=sharing**
 
 Email me at dhimanrajkiran@gmail.com if you can not download the CoSMR.exe file
 
