@@ -6,7 +6,7 @@ The repository was created by Raj Kiran Dhiman, Department of Geology, Panjab Un
 
 CoSMR.py script and CoSMR.exe tool is available in this repository and can be used by following the steps below
 
-** CoSMR.exe file can be downloaded from this link: https://drive.google.com/file/d/1lKgExMrQLHxL7XcQXThKPykSjMrDd3hx/view?usp=sharing **
+** CoSMR.exe file can be downloaded from this link: https://drive.google.com/drive/folders/1TwREojY9vkIu4bho7ifv2oiJLy8i0Sxx?usp=sharing **
 
 Email me at dhimanrajkiran@gmail.com if you can not download the CoSMR.exe file
 
@@ -26,6 +26,8 @@ Step 5. Follow step 4 for toppling failure case in the same manner.
 ## How to use CoSMR charts in the field 
 
 In order to see the steps to use CoSMR charts the reader must read section 3.1 of the paper "Graphical charts for onsite Continuous Slope Mass Rating (CoSMR) classification using strike parallelism and joint dip or plunge of intersection" available on this link: https://www.sciencedirect.com/science/article/abs/pii/S0013795222000448
+
+or email me directly on dhimanrajkiran@gmail.com to get the copy of paper.
 
 
 ## Acknowledgements
